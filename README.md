@@ -2,6 +2,12 @@
 
 This is an anonymous repository for the paper "VRMotion: A Large-Scale Dataset for Full-Body Motion Prediction in Virtual Reality Environments". 
 
+## Dataset Link
+
+The VRMotion dataset can be accessed via the following link:
+
+https://cuhko365-my.sharepoint.com/:f:/g/personal/123090335_link_cuhk_edu_cn/EnVXsg0veZlJn2NYCMlZZ6wBMGKxv_jUheWlgS0DY9e9tw?e=Pa6e78
+
 ## About
 
 This repository contains:
@@ -13,6 +19,5 @@ This repository contains:
 
 Before the paper is accepted, we may periodically update:
 - The dataset
-- Benchmark algorithms
 - Source code 
 
